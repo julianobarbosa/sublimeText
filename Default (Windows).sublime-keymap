@@ -1,0 +1,7 @@
+[
+  { "keys": ["cmd+n"], "command": "advanced_new_file_new"},
+  { "keys": ["F7"], "command": "debug"},
+  { "keys": ["Shift+F7"], "command": "undebug"},
+  { "keys": ["ctrl+keypad_divide"], "command": "toggle_comment", "args": { "block": false } },
+  { "keys": ["ctrl+shift+keypad_divide"], "command": "toggle_comment", "args": { "block": true } },
+]
