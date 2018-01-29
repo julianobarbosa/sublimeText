@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_face": "Source Code Pro",
+  	"font_options": [ "gray_antialias" ],
+  	"font_size": 11,
+	"http_proxy": "http://10.62.138.50:4480",
+	"https_proxy": "http://10.62.138.50:4480",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
